@@ -13,7 +13,7 @@ Dicas para a organização de projetos no Code For São Paulo
 
 ##Autores
 
-- Marcos Abreu ([http://about.me/abreums](http://about.me/bhagyas), [http://www.loftux.se/en](http://www.loftux.se/en?ref=site-logo))
+- Marcos Abreu ([https://about.me/abreums](http://about.me/abreums))
 
 ## Suporte e Contato
 
